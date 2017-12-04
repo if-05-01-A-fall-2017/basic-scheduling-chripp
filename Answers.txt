@@ -1,0 +1,11 @@
+1) In a hospital when a machine that is kepping someone alive(important process) needs one specific measurement 
+that is calculated in another thread to determin if the person is still ok
+
+2)
+G    B    A     D     C     F     H     E
+2  + 5  + 8  + 12  + 16  + 21  + 34  + 55  =  409
+
+Average: 409/8 = 51,125
+
+3)
+That process would have have twice the time to run anybody else has
